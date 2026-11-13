@@ -1,3 +1,4 @@
 # my-demo
-this is my first repository
-author - vedika damkondwar
+this is my first repository.
+<br>
+author - vedika damkondwar.
